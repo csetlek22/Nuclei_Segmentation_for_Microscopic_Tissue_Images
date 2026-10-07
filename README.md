@@ -1,4 +1,3 @@
-````markdown
 # Nuclei Segmentation with U-Net
 
 This repository contains code to train and evaluate a U-Net model for nuclei instance segmentation on H&E-stained histological images.
