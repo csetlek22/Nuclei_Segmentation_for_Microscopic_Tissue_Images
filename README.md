@@ -36,7 +36,7 @@ You can download the dataset here:
    ```bash
    git clone https://github.com/yourusername/nuclei-segmentation.git
    cd nuclei-segmentation
-````
+```
 
 2. Install dependencies (preferably in a virtual environment):
 
